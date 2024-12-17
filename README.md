@@ -85,7 +85,7 @@
 ## **Tecnologías Utilizadas** 💻
 
 <ul>
-  <li><strong>Lenguaje:</strong> Java</li>
+  <li><strong>Lenguajes:</strong> Java, XML, PHP, SQL</li>
   <li><strong>IDE:</strong> Android Studio</li>
   <li><strong>Compatibilidad:</strong> Android 5.0 (Lollipop) y superior</li>
 </ul>
